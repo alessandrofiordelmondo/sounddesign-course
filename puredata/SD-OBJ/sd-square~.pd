@@ -1,0 +1,12 @@
+#N canvas 688 104 435 154 16;
+#X obj 8 76 expr~ $v1 > $v2;
+#X obj 7 45 phasor~;
+#X obj 8 13 inlet;
+#X text 67 9 FREQ.;
+#X obj 154 10 inlet;
+#X obj 9 108 outlet~;
+#X text 217 12 DUTY CYCLE (0. - 1.);
+#X connect 0 0 5 0;
+#X connect 1 0 0 0;
+#X connect 2 0 1 0;
+#X connect 4 0 0 1;
