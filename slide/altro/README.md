@@ -6,3 +6,6 @@
 
 #### 2T - Segnale digitale
 - Francesco Romani - _Formati e Conversioni_ [http://pages.di.unipi.it/romani/DIDATTICA/IAD/IAD3.pdf](http://pages.di.unipi.it/romani/DIDATTICA/IAD/IAD3.pdf)
+
+#### FREESOUND
+- Libreria opensorce file audio [freesound.org](https://freesound.org/)
